@@ -1,0 +1,11 @@
+[
+   {
+    "name": "Tomato",
+    "price": "30",
+    "weight": "1 Kg",
+    "description": "Fresh Tomato",
+    "category": "vegetables",
+    "image": "/static/images/istockphoto-466175630-612x612.jpg",
+    "id": "1a7c4305-07bd-431b-ac00-9e8758bc1428"
+  }
+]

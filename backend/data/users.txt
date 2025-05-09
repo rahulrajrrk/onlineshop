@@ -1,0 +1,14 @@
+[
+  {
+    "name": "RAHUL",
+    "email": "rahulrajrrk1@yahoo.co.in",
+    "password": "Online@123",
+    "role": "admin"
+  },
+  {
+    "name": "Rahul K",
+    "email": "rahulrajrrk@yahoo.co.in",
+    "password": "Online@123",
+    "role": "customer"
+  }
+]

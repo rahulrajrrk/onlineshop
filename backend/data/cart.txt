@@ -1,0 +1,17 @@
+[
+  {
+    "userEmail": "rahulrajrrk@yahoo.co.in",
+    "items": [
+      {
+        "category": "vegetables",
+        "description": "Fresh Tomato",
+        "id": "1a7c4305-07bd-431b-ac00-9e8758bc1428",
+        "image": "/static/images/istockphoto-466175630-612x612.jpg",
+        "name": "Tomato",
+        "price": "30",
+        "weight": "1 Kg",
+        "quantity": 1
+      }
+    ]
+  }
+]
