@@ -10,11 +10,12 @@ services:
       - key: PORT
         value: 5000
 
-  - type: static_site
+  - type: web
     name: onlineshop-frontend
+    env: node
     rootDir: frontend
     buildCommand: npm install && npm run build
-    staticPublishPath: build
+    startCommand: serve -s build
     plan: free
     envVars:
       - key: REACT_APP_API_BASE
