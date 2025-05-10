@@ -1,0 +1,9 @@
+{
+  "short_name": "ShopApp",
+  "name": "Online Shop App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00cc66",
+  "background_color": "#ffffff",
+  "icons": []
+}
